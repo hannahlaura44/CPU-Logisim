@@ -1,0 +1,4 @@
+In this project you will be using Logisim to implement a simple 32-bit two-cycle processor. Throughout the implementation of this project, we'll be making design choices that make it compatible with machine code outputs from MARS and your Project 2! When you're done, you'll be able to run most, but not all, instances of MIPS code through your assembler and linker, and then on your very own CPU! In part II, you will complete a 2-stage pipelined processor!
+
+see details on part 1: http://www-inst.eecs.berkeley.edu/~cs61c/sp16/projs/03_1/
+part 2: http://www-inst.eecs.berkeley.edu/~cs61c/sp16/projs/03_2/
